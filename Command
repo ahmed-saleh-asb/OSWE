@@ -1,2 +1,2 @@
-remote 🖥 descktop
+remote 🖥 desktop
 rdesktop -u administrator -p studentlab x.x.x.x -g 1180x708
